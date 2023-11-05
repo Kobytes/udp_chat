@@ -1,8 +1,5 @@
 import argparse, socket
 
-#TODO: The client and server both need to stay alive and not exit after each message sent/received.
-#TODO: Both the client and the server need to print every message received from the other side.
-#TODO: The server should not be chatting with more than one client at a time.
 
 MAX_SIZE_BYTES = 65535
 
